@@ -13,8 +13,8 @@
 }
 
 .navbar-default {
-     background-color: #fff; 
-     border-color: #fff; 
+     background-color: #fff;
+     border-color: #fff;
 }
 
 .navbar {
@@ -34,7 +34,7 @@
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
 
-     background-color: #fff; 
+     background-color: #fff;
 }
 
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
@@ -56,7 +56,7 @@ user agent stylesheet
 
 .quantity {
     fill: #FFFFFF;
-    
+
 }
 
 text {
@@ -106,11 +106,3 @@ a.arrow {
   -webkit-transform: rotate(135deg);
   transform: rotate(135deg);
 }
-
-
-
-
-
-
-
-
